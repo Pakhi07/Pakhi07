@@ -2,7 +2,7 @@
 <!-- <a href="https://harikrishna-al.github.io/myBlog/" class="button">Blog</a> -->
 
 
-Studying AI engineering in Amrita Vishwa Vidhyapeetham
+Pursuing B.Tech in AI at Amrita Vishwa Vidhyapeetham
 <!-- ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a> -->
 ### Current Status
