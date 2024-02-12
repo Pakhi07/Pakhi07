@@ -15,4 +15,4 @@ Pursuing B.Tech in AI at Amrita Vishwa Vidhyapeetham
 
 <br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pakhi07&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pakhi07&count_private=true&theme=tokyonight&showicons=true)]() -->
