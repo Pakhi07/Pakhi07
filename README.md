@@ -6,7 +6,7 @@ Pursuing B.Tech in AI at Amrita Vishwa Vidhyapeetham
 <!-- ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a> -->
 ### Current Status
-- Exploring Computtional Neuroscience
+- Exploring Computational Neuroscience
 
 ### 📫 How to reach me 
 - pakhibanchalia2418@gmail.com
