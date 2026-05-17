@@ -1,25 +1,15 @@
 ## Hi, I’m Pakhi
 
-### Currently
-- Pursuing M.Sc in Applied AI at TU Dresden
-- Homeostatic RL Research
+Building reinforcement learning systems inspired by biology, cognition, and emergence.
 
-### How to reach me 
-- pakhibanchalia2418@gmail.com
-- <a href="https://x.com/PakhiBanchalia">X</a>
-- <a href="https://t.me/pakhi2430">Telegram</a> 
+### Interests
+- Reinforcement Learning
+- AI Alignment
+- Multi-Agent Systems
+- Homeostatic Agents
+- Curiosity & Exploration
 
-<!--
-**Pakhi07/Pakhi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Homeostatic RL architectures
+- System 1 / System 2 agents
+- Emergent social behavior in RL environments
