@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I’m Pakhi
+
+### Currently
+- Pursuing M.Sc in Applied AI at TU Dresden
+- Homeostatic RL Research
+
+### How to reach me 
+- pakhibanchalia2418@gmail.com
+- <a href="https://x.com/PakhiBanchalia">X</a>
+- <a href="https://t.me/pakhi2430">Telegram</a> 
 
 <!--
 **Pakhi07/Pakhi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
